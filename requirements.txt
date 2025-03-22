@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-# streamlit
-# scikit-learn
-# pandas
-# numpy
-# matplotlib
-# seaborn
-# joblib
-=======
-# streamlit
-# scikit-learn
-# pandas
-# numpy
-# matplotlib
-# seaborn
-# joblib
->>>>>>> 2603bb4 (Added model, static, templates, and utils folders)
+
